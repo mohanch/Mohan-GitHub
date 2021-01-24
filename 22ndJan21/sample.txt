@@ -1,2 +1,3 @@
 this is created as part of git practicing
 added 2nd line
+modifed in the middle branch
